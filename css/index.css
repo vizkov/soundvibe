@@ -1,0 +1,229 @@
+body {
+  background-color: rgb(23, 23, 23);
+  font: 400 1.125em/1 'Trebuchet MS';
+  color: rgb(255, 255, 255);
+}
+
+.container {
+  position: relative;
+  float: left;
+  z-index: 10;
+  width: 80%;
+  height: 453px;
+  margin: -234px 0 0 5.5%;
+  overflow-y: scroll;
+}
+
+.element {
+  float: left;
+  height: 136px;
+  background-color: rgba(0, 0, 0, 0.27);
+  box-shadow: 0 5px 10px 2px rgba(0, 0, 0, .5);
+}
+
+.text {
+  float: left;
+}
+
+.text-1 p,
+.text-2 p {
+  margin-bottom: 1em;
+}
+
+._button {
+  display: block;
+  position: relative;
+  float: left;
+  border-radius: 3px;
+}
+
+._input {
+  display: block;
+  position: relative;
+  float: left;
+  z-index: 11;
+  width: 44.5833333333%;
+  height: 42px;
+  margin: 44px 0 0 2.25%;
+  padding: 0 10px;
+  border: 1px solid rgb(255, 134, 0);
+  border-radius: 100px;
+  background-color: rgba(0, 0, 0, 0.27);
+  font: 0.722em/1.38 Helvetica;
+  color: rgb(99, 99, 99);
+}
+
+.element-1 {
+  width: 99.792099792%;
+  margin-left: 0.0765%;
+}
+
+.element-2 {
+  clear: both;
+  width: 99.7919274346%;
+  margin: 115px 0 0 -0.03581%;
+}
+
+.text-1 {
+  width: 5.9498956158%;
+  min-height: 96px;
+  margin: 25px 0 0 7.53523%;
+  font-size: 1em;
+  line-height: 2;
+  color: rgb(255, 134, 0);
+}
+
+.text-2 {
+  width: 52.5052192066%;
+  min-height: 96px;
+  margin: 25px 0 0 0.00816%;
+  font-size: 0.889em;
+  line-height: 2.4;
+  color: rgb(255, 255, 255);
+}
+
+.text-1:hover,
+.text-2:hover {
+  opacity: 1;
+}
+
+.text-3 {
+  width: 4.4828878137%;
+  min-height: 32px;
+  margin: 57px 0 0 0.92641%;
+  font-size: 1em;
+  color: rgb(255, 255, 255);
+}
+
+.text-4 {
+  width: 4.4828878137%;
+  min-height: 32px;
+  margin: 57px 0 0 5.52747%;
+  font-size: 1em;
+  color: rgb(255, 255, 255);
+}
+
+.text-5 {
+  width: 4.4828878137%;
+  min-height: 32px;
+  margin: 57px 0 0 5.52584%;
+  font-size: 1em;
+  color: rgb(255, 255, 255);
+}
+
+.text-6 {
+  width: 3.0031282586%;
+  min-height: 21px;
+  margin: 57px 0 0 7.51403%;
+  font-size: 1em;
+  color: rgb(255, 134, 0);
+}
+
+.text-7 {
+  width: 33.0897703549%;
+  min-height: 21px;
+  margin-top: 57px;
+  font-size: 0.889em;
+  color: rgb(255, 255, 255);
+}
+
+.text-8 {
+  width: 8.5487628076%;
+  min-height: 32px;
+  margin: 57px 0 0 31.99863%;
+  font-size: 1em;
+  color: rgb(255, 255, 255);
+}
+
+._button-1 {
+  z-index: 15;
+  width: 2.9166666666%;
+  height: 41px;
+  margin: 44px 0 0 30.33073%;
+  background-color: rgba(255, 255, 255, 0);
+  text-shadow: -2px 0 5px rgba(0, 0, 0, .5);
+  font-family: Arial;
+  font-size: 1.944em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+._button-2 {
+  z-index: 16;
+  width: 1.9166666666%;
+  height: 31px;
+  margin: 49px 0 0 13.32682%;
+  background-color: rgba(255, 255, 255, 0);
+  text-shadow: -1px 2px 5px rgba(0, 0, 0, .5);
+  font-family: Arial;
+  font-size: 1.389em;
+  text-align: center;
+  color: rgb(255, 134, 0);
+}
+
+._button-3 {
+  clear: both;
+  z-index: 12;
+  width: 4.1666666666%;
+  height: 32px;
+  margin: 58px 0 0 2.25%;
+  text-shadow: -1px 0 2px rgba(255, 255, 255, 0.36);
+  font-family: Lato;
+  font-size: 1.667em;
+  font-weight: 300;
+  text-align: left;
+  color: rgb(255, 255, 255);
+}
+
+._button-4 {
+  clear: both;
+  z-index: 13;
+  width: 4.1666666666%;
+  height: 32px;
+  margin: 141px 0 0 2.25%;
+  text-shadow: -1px 0 2px rgba(255, 255, 255, 0.36);
+  font-family: Lato;
+  font-size: 1.667em;
+  font-weight: 300;
+  text-align: left;
+  color: rgb(255, 255, 255);
+}
+
+._button-5 {
+  clear: both;
+  z-index: 14;
+  width: 9.0833333333%;
+  height: 32px;
+  margin: 137px 0 0 2.25%;
+  text-shadow: -1px 0 2px rgba(255, 255, 255, 0.36);
+  font-family: Lato;
+  font-size: 1.667em;
+  font-weight: 300;
+  text-align: left;
+  color: rgb(255, 255, 255);
+}
+
+
+#content::-webkit-scrollbar-track
+{
+	background-color: rgba(70, 67, 88, 0.17);
+}
+
+#content::-webkit-scrollbar
+{
+	width: 10px;
+	background-color: rgba(70, 67, 88, 0.17);
+}
+
+#content::-webkit-scrollbar-thumb
+{
+	background-color: #F90;
+	background-image: -webkit-linear-gradient(45deg,
+	                                          rgba(255, 255, 255, .2) 25%,
+											  transparent 25%,
+											  transparent 50%,
+											  rgba(255, 255, 255, .2) 50%,
+											  rgba(255, 255, 255, .2) 75%,
+											  transparent 75%,
+											  transparent)
+}

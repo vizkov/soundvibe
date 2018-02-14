@@ -1,0 +1,16 @@
+{
+  "name": "soundvibe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "electron": "^1.7.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "saks",
+  "license": "ISC"
+}
