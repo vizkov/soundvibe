@@ -8,5 +8,5 @@ A music player with the possibility of sharing files locally or remotely(WebRTC)
   - Function calls for setting up LAN/WebRTC connections
   - Handler for Search bar 
   
-  Basically everything xD
+  Basically everything, but there is some stuff that can be referenced...
 
