@@ -1,5 +1,5 @@
 # soundvibe
-A music player with a potential to share files locally or remotely(WebRTC) 
+A music player with the potential to share files locally or remotely(WebRTC) 
 
 ![alt text](sv.JPG "")
 
