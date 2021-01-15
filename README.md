@@ -3,7 +3,7 @@ A music player with the potential to share files locally or remotely(WebRTC)
 
 ![alt text](sv.JPG "")
 ![alt text](1.png "")
-![alt text](2.Jpeg "")
+![alt text](2.jpeg "")
 
 # Missing :
   - Event handlers for all the buttons
