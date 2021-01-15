@@ -1,9 +1,11 @@
 # soundvibe
 A music player with the potential to share files locally or remotely(WebRTC) 
 
-![alt text](sv.JPG "")
-![alt text](1.png "")
-![alt text](2.jpeg "")
+![alt text](sv.JPG "Desktop")
+
+![alt text](1.png "Web")
+
+![alt text](2.jpeg "Android")
 
 # Missing :
   - Event handlers for all the buttons
