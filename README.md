@@ -7,6 +7,5 @@ A music player with the potential to share files locally or remotely(WebRTC)
 
 ![alt text](2.jpeg "Android")
 
-# Missing :
-  - A lot of the actual code was lost, but some of it still remians. Can be used for reference. 
+- A lot of the actual code was lost, but some of it still remians. Can be used for reference. 
 
